@@ -64,13 +64,22 @@ node promise-version/fileReaderAsyncAwait.js
 ## 🧾 Sample Output
 
 ```
+PS C:\Users\asus\OneDrive\Desktop\Celebal-Summer-Internship\Celebal-Week3-AsyncAwait-Assignment> node callback-version/fileReaderCallback.js                   
 📄 File content using Callback:
 
 Hello Celebal Team!
 This is the Week 3 assignment for the summer internship.
-```
 
-![Output Screenshot](image.png)
+PS C:\Users\asus\OneDrive\Desktop\Celebal-Summer-Internship\Celebal-Week3-AsyncAwait-Assignment> node promise-version/fileReaderPromise.js                     
+📄 File content using Promises:
+ Hello Celebal Team!
+This is the Week 3 assignment for the summer internship.
+
+PS C:\Users\asus\OneDrive\Desktop\Celebal-Summer-Internship\Celebal-Week3-AsyncAwait-Assignment> node promise-version/fileReaderAsyncAwait.js                  
+📄 File content using Async/Await:
+ Hello Celebal Team!
+This is the Week 3 assignment for the summer internship.
+
 
 ---
 
