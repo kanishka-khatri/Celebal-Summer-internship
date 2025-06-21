@@ -85,4 +85,6 @@ This is the Week 3 assignment for the summer internship.
 
 ## 📚 Reference
 
+---
+
 - [Asynchronous Patterns in Node.js – GeeksforGeeks](https://www.geeksforgeeks.org/asynchronous-patterns-in-nodejs/)
