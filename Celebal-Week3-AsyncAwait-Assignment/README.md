@@ -20,14 +20,15 @@ Demonstrate the difference between:
 Celebal-Week3-AsyncAwait-Assignment/
 │
 ├── callback-version/
-│   └── fileReaderCallback.js        # Using callbacks
+│   └── fileReaderCallback.js        # Using callbacks
 │
 ├── promise-version/
-│   ├── fileReaderPromise.js         # Using Promises
-│   └── fileReaderAsyncAwait.js      # Using async/await
+│   ├── fileReaderPromise.js         # Using Promises
+│   └── fileReaderAsyncAwait.js      # Using async/await
 │
-├── sample.txt                       # Text file used for demonstration
-└── README.md                        # This file
+├── sample.txt                       # Text file used for demonstration
+├── image.png                        # Output screenshot image
+└── README.md                        # This file
 ```
 
 ---
@@ -67,8 +68,9 @@ node promise-version/fileReaderAsyncAwait.js
 
 Hello Celebal Team!
 This is the Week 3 assignment for the summer internship.
-![Output Screenshot](image.png)
 ```
+
+![Output Screenshot](image.png)
 
 ---
 
