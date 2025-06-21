@@ -67,7 +67,7 @@ node promise-version/fileReaderAsyncAwait.js
 
 Hello Celebal Team!
 This is the Week 3 assignment for the summer internship.
-![Output Screenshot](image.png)
+![Output Screenshot](Celebal-Week3-AsyncAwait-Assignment\image.png)
 ```
 
 ---
