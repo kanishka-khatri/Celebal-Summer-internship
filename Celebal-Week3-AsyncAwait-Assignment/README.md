@@ -79,12 +79,10 @@ PS C:\Users\asus\OneDrive\Desktop\Celebal-Summer-Internship\Celebal-Week3-AsyncA
 📄 File content using Async/Await:
  Hello Celebal Team!
 This is the Week 3 assignment for the summer internship.
-
+```
 
 ---
 
 ## 📚 Reference
-
----
 
 - [Asynchronous Patterns in Node.js – GeeksforGeeks](https://www.geeksforgeeks.org/asynchronous-patterns-in-nodejs/)
