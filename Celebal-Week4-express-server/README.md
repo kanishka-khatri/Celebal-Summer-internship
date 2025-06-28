@@ -73,6 +73,15 @@ You can test this using Postman or curl.
 
 ---
 
+---
+
+## 🖼️ Screenshots
+
+![Home](Home.png)
+![About](about.png)
+![Submit](submit.png)
+
+
 ## ✅ Example curl Test
 
 ```bash
@@ -86,3 +95,13 @@ This will output:
 ```
 Data received: {"name":"Kanishka"}
 ```
+
+---
+
+## 👩‍💻 Author
+
+**Kanishka Khatri**  
+B.Tech CSE, Mody University of Science and Technology  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/kanishka-khatri/)
+
+📌 *Submitted for Celebal Summer Internship 2025 – Week 4 Task*
