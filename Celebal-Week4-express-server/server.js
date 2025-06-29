@@ -13,6 +13,9 @@ app.use((req, res, next) => {
 // Middleware to parse JSON request bodies
 app.use(express.json());
 
+// 🟩 ✅ Middleware: Parse URL-encoded body (HTML forms)
+app.use(express.urlencoded({ extended: true }));
+
 // Route 1: Home route
 app.get('/', (req, res) => {
   res.send('Welcome to the Home Page!');
