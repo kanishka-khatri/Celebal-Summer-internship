@@ -1,4 +1,4 @@
-# Week 5 Assignment: MongoDB CRUD App using Express.js and Mongoose
+# Week 5 Assignment: MongoDB CRUD App using Mongoose
 
 ## 📚 Description
 
