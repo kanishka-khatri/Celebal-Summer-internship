@@ -62,7 +62,7 @@ The server will start on `http://localhost:3000`.
   "department": "CSE"
 }
 ```
-![Create Student](./CreateStudent.png)
+![Create Student](Output/CreateStudent.png)
 
 ---
 
@@ -70,7 +70,8 @@ The server will start on `http://localhost:3000`.
 
 **GET** `/students`
 
-![GetAllStudents](GetAllStudents.png)
+
+![GetAllStudents](Output/GetAllStudents.png)
 ---
 
 ### 🔍 Get a Student by ID
@@ -78,7 +79,7 @@ The server will start on `http://localhost:3000`.
 **GET** `/students/:id`  
 Make sure `:id` is a valid MongoDB ObjectId.
 
-![GetStudentbyID](GetStudentByID.png)
+![GetStudentbyID](Output/GetStudentByID.png)
 ---
 
 ### ✏️ Update Student
@@ -92,14 +93,15 @@ Make sure `:id` is a valid MongoDB ObjectId.
   "department": "Compuetr Science and Engineering Core"
 }
 ```
-![UpdateStudentByID](UpdateStudentByID.png)
+![UpdateStudentByID](Output/UpdateStudentByID.png)
 
 ---
 
 ### ❌ Delete Student
 
 **DELETE** `/students/:id`
-![DeleteStudentByID](DeleteStudentByID.png)
+
+![DeleteStudentByID](Output/DeleteStudentByID.png)
 ---
 
 ## 🧪 Example curl Commands
@@ -135,6 +137,11 @@ curl -X DELETE http://localhost:3000/students/<student_id>
 
 ---
 ## MongoDB Interface
+
+### Before deletion
+![MongoDB](image.png)
+
+### After deletion
 ![MongoDB](image.png)
 
 ---
