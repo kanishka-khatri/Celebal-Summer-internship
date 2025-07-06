@@ -139,7 +139,7 @@ curl -X DELETE http://localhost:3000/students/<student_id>
 ## MongoDB Interface
 
 ### Before deletion
-![MongoDB](image.png)
+![MongoDB](Output/image.png)
 
 ### After deletion
 ![MongoDB](Output/image1.png)
