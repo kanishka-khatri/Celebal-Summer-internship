@@ -131,4 +131,4 @@ Authorization: Bearer JWT_TOKEN_HERE
 B.Tech CSE, Mody University of Science and Technology  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/kanishka-khatri/)
 
-📌 *Submitted for Celebal Summer Internship 2025 – Week 5 Assignment*
+📌 *Submitted for Celebal Summer Internship 2025 – Week 7 Assignment*
